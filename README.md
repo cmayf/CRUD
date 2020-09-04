@@ -1,4 +1,4 @@
-# portfolio_project
+# IMDB CRUD
 
 IMDB Database Catalog
 
